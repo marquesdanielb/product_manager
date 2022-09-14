@@ -38,11 +38,3 @@ Quanto as rotas eu usei a biblioteca coffeecode/router que também traz uma abst
 
 Para a camada de visão eu decidi usar a biblioteca league/plates por estar mais acostumado a trabalhar com ela.
 
-
-
-# Como enviar seu teste
-Envie um email para [carreira@webjump.com.br] com o link do seu repositório.
-
-O repositório do teste precisa ser público. 
-
-Qualquer dúvida sobre o teste, fique a vontade para entrar em contato conosco.
